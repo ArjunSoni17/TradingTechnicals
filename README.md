@@ -1,0 +1,2 @@
+# TradingTechnicals
+ With the help of API the code pulls the Open, Close, Low and High of various NASDAQ Stocks and based on data retrevied it calculates the Bullish Engulfing Technicals. Which ever stock meets the Bullish Engulfing criteria it checks with what type of engulfing it is whether it is a Very good engulfing or Upper Engulfing or Lower Engulfing or a normal one. At the end it gives out the list of stock where it was and engulfing with what type of engulfing.
